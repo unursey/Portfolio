@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bb9a8cb-f788-4d13-86b2-a0829340772c" name="Changes" comment="" />
+    <list default="true" id="3093328f-e672-4ff5-accb-8949d46fd634" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,45 +10,26 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="27yi4AaYytehx91cQdb9UkquZOJ" />
+  <component name="ProjectId" id="27yhx0UxILjIHKyIhZ3MMD4oo4L" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Anna\Desktop\Lessons\Modul02\Lesson03\Portfolio\css" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5bb9a8cb-f788-4d13-86b2-a0829340772c" name="Changes" comment="" />
-      <created>1650298532729</created>
+      <changelist id="3093328f-e672-4ff5-accb-8949d46fd634" name="Changes" comment="" />
+      <created>1650298478643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1650298532729</updated>
-      <workItem from="1650298534073" duration="26317000" />
+      <updated>1650298478643</updated>
+      <workItem from="1650298481002" duration="28000" />
     </task>
     <servers />
   </component>
