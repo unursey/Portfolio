@@ -1,0 +1,41 @@
+
+.present__image {
+    position: relative;
+    top: 20px;
+    height: 783px;
+    text-align: center;
+    padding: 0 10px;
+    margin: 20px auto;
+}
+
+.present__image:after {
+    content: '';
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-image: url("../image/kate_leo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: transparent;
+    background-position: center;
+    opacity: 0.5;
+    position: absolute;
+    z-index: -1;
+}
+
+.present__image_title {
+    font-weight: 700;
+    font-size: 100px;
+    color: #ffb822;
+    margin: 0;
+    padding-top: 325px;
+    line-height: 1;
+
+}
+
+.present__image_subtitle {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 0.5;
+}
