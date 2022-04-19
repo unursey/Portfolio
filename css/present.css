@@ -24,17 +24,16 @@
     z-index: -1;
 }
 
-.present__image_title {
+.present__image-title {
     font-weight: 700;
     font-size: 100px;
     color: #ffb822;
     margin: 0;
     padding-top: 325px;
     line-height: 1;
-
 }
 
-.present__image_subtitle {
+.present__image-subtitle {
     font-weight: 700;
     font-size: 40px;
     line-height: 0.5;
