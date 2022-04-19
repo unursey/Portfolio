@@ -38,7 +38,7 @@
     color: inherit;
 }
 
-.header__form {
+.form-search {
     display: inline-block;
     height: 55px;
     width: 280px;
@@ -47,7 +47,7 @@
     border-radius: 10px;
 }
 
-.form__search-input {
+.form-search__input {
     padding: 0 15px;
     width: 210px;
     height: 35px;
@@ -55,19 +55,19 @@
     font-weight: 400;
     font-size: 22px;
     background-color: #050404;
-    color: #FFFFFF;
+    color: #cccccc;
     border: none;
     outline: none;
     caret-color: #cccccc;
 }
 
-.form__search-input::placeholder {
+.form-search__input::placeholder {
     color: #cccccc;
     font-weight: 700;
     font-size: 22px;
 }
 
-.form__search-button {
+.form-search__button {
     position: relative;
     top: 8px;
     background-color: transparent;
