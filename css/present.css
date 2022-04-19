@@ -11,9 +11,9 @@
 .present__image:after {
     content: '';
     top: 0;
-    left: 0;
+    left: 10px;
     bottom: 0;
-    right: 0;
+    right: 10px;
     background-image: url("../image/kate_leo.png");
     background-repeat: no-repeat;
     background-size: cover;
