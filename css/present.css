@@ -1,5 +1,5 @@
 
-.present__image {
+.present__container {
     position: relative;
     top: 20px;
     height: 783px;
@@ -8,7 +8,7 @@
     margin: 20px auto;
 }
 
-.present__image:after {
+.present__container:after {
     content: '';
     top: 0;
     left: 10px;
@@ -24,7 +24,7 @@
     z-index: -1;
 }
 
-.present__image-title {
+.present__title {
     font-weight: 700;
     font-size: 100px;
     color: #ffb822;
@@ -33,7 +33,7 @@
     line-height: 1;
 }
 
-.present__image-subtitle {
+.present__subtitle {
     font-weight: 700;
     font-size: 40px;
     line-height: 0.5;
