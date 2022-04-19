@@ -3,6 +3,24 @@
   <component name="ChangeListManager">
     <list default="true" id="3093328f-e672-4ff5-accb-8949d46fd634" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/present.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/present.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/growthx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/human_anatomy_app.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/kate_leo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/logo_footer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/logo_header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/lookr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/natural_hacks.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/nevage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/profigoals.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/telegram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/vk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +58,7 @@
       <updated>1650298478643</updated>
       <workItem from="1650298481002" duration="28000" />
       <workItem from="1650325317332" duration="338000" />
-      <workItem from="1650352228287" duration="7332000" />
+      <workItem from="1650352228287" duration="14610000" />
     </task>
     <servers />
   </component>

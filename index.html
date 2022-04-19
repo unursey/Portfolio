@@ -7,23 +7,24 @@
     <link rel="stylesheet" href="css/index.css">
 </head>
 
-<body>
+<body class="body">
 
 
-<header>
+<header class="header">
     <div class="container header__container">
+
+        <img class='header__logo' src="image/header/logo_header.png" alt="logo" height="55">
+
         <nav class="menu">
-
-            <img class='menu__logo' src="image/logo_header.png" alt="logo" height="55">
-
             <ul class="menu__list">
                 <li class="menu__item"><a class='menu__link' href="#home">home</a></li>
                 <li class="menu__item"><a class='menu__link' href="#about">about us</a></li>
                 <li class="menu__item"><a class='menu__link' href="#other">other</a></li>
-                <li class="menu__item menu__item_active"><a class='menu__link' href="#blog">blog</a></li>
+                <li class="menu__item active"><a class='menu__link' href="#blog">blog</a></li>
                 <li class="menu__item"><a class='menu__link' href="#contact">contact</a></li>
             </ul>
-
+        </nav>
+        <div class="header__form">
             <form class="form__search">
                 <label>
                     <input type="search" class="form__search-input" placeholder="SEARCH">
@@ -44,15 +45,16 @@
                     </svg>
                 </button>
             </form>
-        </nav>
+        </div>
+
     </div>
 </header>
 
-<main>
+<main class="main">
     <section class="present" id="present">
         <div class="container present__container">
             <h1 class="present__title">kate leo</h1>
-            <h2 class="present__subtitle">freelance web developer in new york</h2>
+            <p class="present__subtitle">freelance web developer in new york</p>
         </div>
     </section>
 </main>

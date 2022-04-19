@@ -2,19 +2,21 @@
     box-sizing: border-box;
 }
 
-body {
+.body {
     background-color: #050404;
     color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
-
 }
 
-header, main {
+.header, .main {
     text-transform: uppercase;
 }
 
 .container {
     max-width: 1200px;
-    padding: 0 10px;
+    margin: 0 auto;
+}
 
+.active {
+    color: #ffb822;
 }
