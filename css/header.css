@@ -29,7 +29,7 @@
     padding: 0;
 }
 
-.menu__item-active {
+.menu__item_active {
     color: #ffb822;
 }
 
@@ -38,7 +38,7 @@
     color: inherit;
 }
 
-.menu__search {
+.form__search {
     display: inline-block;
     height: 55px;
     width: 280px;
@@ -48,7 +48,7 @@
 }
 
 
-.menu__search-input {
+.form__search-input {
     padding: 0 15px;
     width: 210px;
     height: 35px;
@@ -61,11 +61,11 @@
     caret-color: #cccccc;
 }
 
-.menu__search-input::placeholder{
+.form__search-input::placeholder{
     color: #cccccc;
 }
 
-.menu__search-button {
+.form__search-button {
     position: relative;
     top: 8px;
     background-color: transparent;
